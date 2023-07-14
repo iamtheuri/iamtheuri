@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
 - 💬 Ask me about **PHP, Laravel, Python, Django, HTML5, CSS, JS, Java, C++**
-- 📫 How to reach me **theuridavid56@gmail.com**
+- 📫 Reach me at **theuridavid56@gmail.com**
+- A computer science student with profound knowledge of languages and development tools, committed to honing skills and staying aware of the latest industry trends, and contributing to organizational growth while nurturing my own professional development.
 
 route::get(<a href="https://github.com/iamtheuri">'/github.com/iamtheuri'</a>, function(){ </br>
     &nbsp; &nbsp; &nbsp; return view(<span>"Welcome to iamtheuri's github"</span>); </br>

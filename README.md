@@ -3,8 +3,7 @@
 - 💬 Ask me about **PHP, Laravel, Python, Django, HTML5, CSS, JS, Java, C++**
 - 📫 Reach me at **theuridavid56@gmail.com**
 - A computer science student with continuous desire to
-expand my knowledge of languages and development
-tools, committed to honing skills and staying aware of the latest industry trends, and contributing to organizational growth while nurturing my own professional development.
+expand my knowledge, committed to honing skills and staying aware of the latest industry trends, and contributing to organizational growth while nurturing my own professional development.
 
 Route::get(<a href="https://github.com/iamtheuri">'/github.com/iamtheuri'</a>, [GitHub.com::class, 'iamtheuri'])->name(github.iamtheuri);
 
